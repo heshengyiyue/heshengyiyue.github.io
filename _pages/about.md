@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. School of Engineering, The University of Tokyo. chenjh<<AT>>bmpe.t.u-tokyo.ac.jp
 
 profile:
   align: right
