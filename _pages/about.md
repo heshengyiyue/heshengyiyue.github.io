@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 
 chenjh![](../assets/img/email.jpg)
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.s
+I am currently a PhD student of the [Biomedical Precision Engineering Lab (BMPE)](https://www.bmpe.t.u-tokyo.ac.jp/index.html), in the [Department of Precision Engineering](https://www.pe.t.u-tokyo.ac.jp/en/index.html) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), supervised by [*Professor* Etsuko Kobayashi](https://www.bmpe.t.u-tokyo.ac.jp/member.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest lies in the area of computer assisted intervention (CAI) and robotic surgery, with the mission to raise the level of surgery autonomy and intelligence, relieve the surgery burden and improve surgery safety. My previous research experience mostly lies in **medical image analysis** and **perception** for robotic surgery, including **image segmentation**, **image registration** (rigid and deformable), **tissue deformation recovery**, and **digital twin** for soft tissue manipulation in robotic surgery. My current and future work include **visual servoing** for surgery autonomy and laparoscopic image-based **biomechanical analysis** as extra modality for surgical guidance and assessment.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Master degree in [Biomedical Engineering](https://bioeng.t.u-tokyo.ac.jp/en/) at The University of Tokyo](https://www.u-tokyo.ac.jp/en/) in 2022, and Bachelor degree in Mechanical Engineering at Beihang University in 2020.
