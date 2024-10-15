@@ -1,0 +1,187 @@
+https://app.rendercv.com/
+
+cv:
+  name: Jiahe Chen
+  location: The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan
+  email: chenjh@bmpe.t.u-tokyo.ac.jp
+  website: https://heshengyiyue.github.io/
+  social_networks:
+    - network: ResearchGate
+      username: Jiahe-Chen
+    - network: Google Scholar
+      username: jf3wI68AAAAJ
+  sections:
+    education:
+      - institution: The University of Tokyo
+        area: Precision Engineering
+        degree: PhD
+        start_date: 2022-10
+        end_date: 
+        highlights:
+          - '**Fellowship: The World-leading Innovative Graduate Study (WINGS) Program Research Fellow** (Apr 2023 to Sep 2025)'
+          - '**Fellowship: Japan Society for the Promotion of Science (JSPS) Research Fellow** (Apr 2025 to Mar 2027)'
+          - 'Supervisor: Prof. Etsuko Kobayashi'
+      - institution: The University of Tokyo
+        area: Bioengineering
+        degree: Master
+        start_date: 2020-10
+        end_date: 2022-09
+        highlights:
+          - '**Scholarship: Fully support by the SEUT Grant** for International Students sponsored by the Graduate School of Engineering (covering the tuition fee and living expenses)'
+          - 'Supervisor: Prof. Ichiro Sakuma'
+      - institution: Beihang University
+        area: Mechanical Engineering
+        degree: Bachelor
+        start_date: 2016-08
+        end_date: 2020-06
+        highlights:
+          - 'GPA: 3.84/4.0'
+          - '**Honor: Outstanding Undergraduate Thesis Award**'
+          - 'Supervisor: Prof. Junchen Wang'
+      - institution: Technical University of Munich
+        area: Informatics (Computer Science)
+        degree: Exchange Student
+        start_date: 2019-10
+        end_date: 2020-03
+        highlights:
+          - '**Scholarship: Fully support by the China Scholarship Council (CSC)**'
+          - 'Lab chair: Prof. Nassir Navab'
+    Research_Interests:
+      - My research interest lies in the area of **computer assisted intervention (CAI)** and **robotic surgery**, with the mission to raise the level of surgery autonomy and intelligence, relieve the surgery burden and improve surgery safety. My previous research experience mostly lies in **medical image analysis** and **perception** for robotic surgery, including **image segmentation**, **image registration** (rigid and deformable), surgical instrument **pose estimation**, **tissue deformation recovery**, and **digital twin** for soft tissue manipulation in robotic surgery. My current and future work include **visual servoing** for surgery autonomy and laparoscopic image-based **biomechanical analysis** as extra modality for surgical guidance and assessment.
+    experience:
+      - company: The University of Tokyo
+        position: JSPS Research Fellow
+        location: Tokyo, Japan
+        start_date: 2025-04
+        end_date: 2027-09
+        highlights:
+          - 'My project is on surgery autonomy: vision-based tissue deformation perception and adaptive soft tissue manipulation'
+          - 'Advisor: Prof. Etsuko Kobayashi'
+      - company: The University of Tokyo
+        position: WINGS Research Fellow
+        location: Tokyo, Japan
+        start_date: 2023-04
+        end_date: 2025-09
+        highlights:
+          - My project is on surgery environment modeling for surgical automation and digitalization
+          - 'Advisor: Prof. Etsuko Kobayashi'
+      - company: The University of Hong Kong
+        position: Undergraduate Research Intern
+        location: Hong Kong, China
+        start_date: 2019-07
+        end_date: 2019-08
+        highlights:
+          - I worked on a project for segmenting cardiac chambers from cardiovascular B-Mode ultrasound videos
+          - 'Advisor: Prof. Wei-Ning Lee'
+    publications:
+      - '1. ***Chen Jiahe***, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. SurgEM: A Vision-based Surgery Environment Modeling Framework for Constructing a **Digital Twin** towards Autonomous Soft Tissue Manipulation. *IEEE Robotics and Automation Letters (RA-L)*, 2024. (peer-reviewed) **Best Poster Award in ICRA 2024 2nd RAMI workshop**'
+      - '2. ***Chen Jiahe***, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. Trans-Window Panoramic Impasto for Online Tissue **Deformation Recovery**. *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024. (peer-reviewed, poster)'
+      - '3. ***Chen Jiahe***, Hara Kazuaki, Sakuma Ichiro, Kobayashi Etsuko, Tomii Naoki. Occlusion-Robust Scene Flow-Based Tissue **Deformation Recovery** Incorporating a Mesh Optimization Model. *International Journal of Computer Assisted Radiology and Surgery (IJCARS - IPCAI 2023 Special Issue)*, 2023. (peer-reviewed, oral, poster) **CAI Award Runner-up in IPCAI 2023**'
+      - '4. ***Chen Jiahe***, Hara Kazuaki, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. Stereo Vision-Based Tissue **Deformation Recovery** with Enhanced Robustness to Occlusion towards Automatic Soft Tissue Manipulation. in *IEEE International Conference on Robotics and Automation (ICRA) 2023 Workshop*, 2023. (poster)'
+      - '5. ***Chen Jiahe***, Hara Kazuaki, Sakuma Ichiro, Kobayashi Etsuko, Tomii Naoki. Laplacian Mesh-Based Surface **Deformation Recovery** Using Scene Flow for Robotic Minimally Invasive Surgery. in *Proceedings of Computer Assisted Radiology and Surgery (CARS)*, 2022. (peer-reviewed, oral)'
+      - '6. ***Chen Jiahe***, Yuan Fuzhen, Shen Yu, Wang Junchen. Multimodality-Based Knee Joint **Modeling** Method with Bone and Cartilage Structures for Total Knee Arthroplasty. *The International Journal of Medical Robotics and Computer Assisted Surgery*, 2021. (peer-reviewed)'
+      - '7. ***Chen Jiahe***, Zhang Xiaohui, Wang Junchen. Coarse-to-Fine Deformable Model-Based Kidney 3D **Segmentation**. in *Proceedings of the 2nd WRC Symposium on Advanced Robotics and Automation (WRC SARA)*, 2019. (peer-reviewed, oral)'
+      - '8. ***Chen Jiahe***, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. 6-DoF **pose estimation** for surgical tools using a binary cylindrical marker with circumferential encoding. *Annual Conference of Japanese Society for Medical and Biological Engineering*, 2024. (oral)'
+      - '9. Iyama Yuriko, Takahashi Yudai, ***Chen Jiahe***, Noda Takumi, Hara Kazuaki, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. **Autonomous Countertraction** for Secure Field of View in Laparoscopic Surgery using Deep Reinforcement Learning. *International Journal of Computer Assisted Radiology and Surgery (IJCARS)*, 2024. (peer-reviewed)'
+    Thesis:
+      - '**Master thesis:** Occlusion-Robust Scene Flow-Based Tissue Deformation Recovery Incorporating Mesh Optimization Model'
+      - '**Bachelor thesis:** Intelligent Surgical Environment Modeling for Knee Joint Surgery'
+    technologies:
+      - label: Languages used in projects
+        details: C++, C, Python, MATLAB
+      - label: Software
+        details: ROS, Docker, image processing (segmentation, registration, pose estimation, reconstruction, biomechanics analysis), 3D rendering, robot control (visual servoing; MoveIt)
+      - label: 'Hardware-Software I/O'
+        details: binocular laparoscopic camera (da Vinci, Storz), optical tracking system (NDI Polaris), industrial robot arm (Denso)
+    projects:
+      - name: Multi-User Drawing Tool
+        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        highlights:
+          - Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
+          - 'Tools Used: C++, MFC'
+      - name: Synchronized Desktop Calendar
+        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        highlights:
+          - Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
+          - 'Tools Used: C#, .NET, SQL, XML'
+      - name: Custom Operating System
+        date: 2002
+        highlights:
+          - Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
+          - 'Tools Used: C'
+
+design:
+  theme: sb2nov
+  font: Latin Modern Serif
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 24 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+
+locale_catalog:
+  phone_number_format: national 
+  date_style: "MONTH_ABBREVIATION YEAR" 
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: to
+
+
+
