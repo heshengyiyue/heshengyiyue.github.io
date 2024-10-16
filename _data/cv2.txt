@@ -27,7 +27,7 @@ cv:
         start_date: 2020-10
         end_date: 2022-09
         highlights:
-          - '**Scholarship: Fully support by the SEUT Grant** for International Students sponsored by the Graduate School of Engineering (covering the tuition fee and living expenses)'
+          - '**Scholarship: Fully supported by the SEUT Grant** for International Students sponsored by the Graduate School of Engineering (covering the tuition fee and living expenses)'
           - 'Supervisor: Prof. Ichiro Sakuma'
       - institution: Beihang University
         area: Mechanical Engineering
@@ -35,7 +35,7 @@ cv:
         start_date: 2016-08
         end_date: 2020-06
         highlights:
-          - 'GPA: 3.84/4.0'
+          - 'GPA: 3.8/4.0'
           - '**Honor: Outstanding Undergraduate Thesis Award**'
           - 'Supervisor: Prof. Junchen Wang'
       - institution: Technical University of Munich
@@ -44,7 +44,7 @@ cv:
         start_date: 2019-10
         end_date: 2020-03
         highlights:
-          - '**Scholarship: Fully support by the China Scholarship Council (CSC)**'
+          - '**Scholarship: Fully supported by the China Scholarship Council (CSC)**'
           - 'Lab chair: Prof. Nassir Navab'
     Research_Interests:
       - My research interest lies in the area of **computer assisted intervention (CAI)** and **robotic surgery**, with the mission to raise the level of surgery autonomy and intelligence, relieve the surgery burden and improve surgery safety. My previous research experience mostly lies in **medical image analysis** and **perception** for robotic surgery, including **image segmentation**, **image registration** (rigid and deformable), surgical instrument **pose estimation**, **tissue deformation recovery**, and **digital twin** for soft tissue manipulation in robotic surgery. My current and future work include **visual servoing** for surgery autonomy and laparoscopic image-based **biomechanical analysis** as extra modality for surgical guidance and assessment.
@@ -81,7 +81,7 @@ cv:
       - '5. ***Chen Jiahe***, Hara Kazuaki, Sakuma Ichiro, Kobayashi Etsuko, Tomii Naoki. Laplacian Mesh-Based Surface **Deformation Recovery** Using Scene Flow for Robotic Minimally Invasive Surgery. in *Proceedings of Computer Assisted Radiology and Surgery (CARS)*, 2022. (peer-reviewed, oral)'
       - '6. ***Chen Jiahe***, Yuan Fuzhen, Shen Yu, Wang Junchen. Multimodality-Based Knee Joint **Modeling** Method with Bone and Cartilage Structures for Total Knee Arthroplasty. *The International Journal of Medical Robotics and Computer Assisted Surgery*, 2021. (peer-reviewed)'
       - '7. ***Chen Jiahe***, Zhang Xiaohui, Wang Junchen. Coarse-to-Fine Deformable Model-Based Kidney 3D **Segmentation**. in *Proceedings of the 2nd WRC Symposium on Advanced Robotics and Automation (WRC SARA)*, 2019. (peer-reviewed, oral)'
-      - '8. ***Chen Jiahe***, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. 6-DoF **pose estimation** for surgical tools using a binary cylindrical marker with circumferential encoding. *Annual Conference of Japanese Society for Medical and Biological Engineering*, 2024. (oral)'
+      - '8. ***Chen Jiahe***, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. 6-DoF **Pose Estimation** for Surgical Tools Using a Binary Cylindrical Marker with Circumferential Encoding. *Annual Conference of Japanese Society for Medical and Biological Engineering*, 2024. (oral)'
       - '9. Iyama Yuriko, Takahashi Yudai, ***Chen Jiahe***, Noda Takumi, Hara Kazuaki, Kobayashi Etsuko, Sakuma Ichiro, Tomii Naoki. **Autonomous Countertraction** for Secure Field of View in Laparoscopic Surgery using Deep Reinforcement Learning. *International Journal of Computer Assisted Radiology and Surgery (IJCARS)*, 2024. (peer-reviewed)'
     Thesis:
       - '**Master thesis:** Occlusion-Robust Scene Flow-Based Tissue Deformation Recovery Incorporating Mesh Optimization Model'
@@ -93,22 +93,6 @@ cv:
         details: ROS, Docker, image processing (segmentation, registration, pose estimation, reconstruction, biomechanics analysis), 3D rendering, robot control (visual servoing; MoveIt)
       - label: 'Hardware-Software I/O'
         details: binocular laparoscopic camera (da Vinci, Storz), optical tracking system (NDI Polaris), industrial robot arm (Denso)
-    projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Desktop Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Custom Operating System
-        date: 2002
-        highlights:
-          - Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-          - 'Tools Used: C'
 
 design:
   theme: sb2nov
@@ -182,6 +166,4 @@ locale_catalog:
   years: years
   present: present
   to: to
-
-
 
