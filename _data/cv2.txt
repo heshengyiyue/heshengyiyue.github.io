@@ -1,3 +1,5 @@
+https://app.rendercv.com/
+
 cv:
   name: Jiahe Chen
   location: The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan
@@ -53,8 +55,8 @@ cv:
         start_date: 2025-04
         end_date: 2027-09
         highlights:
-          - 'My project is on surgery autonomy: vision-based tissue deformation perception and adaptive soft tissue manipulation'
-          - 'Advisor: Prof. Etsuko Kobayashi'
+          - 'Principal investigator of grant "surgical autonomy: vision-based tissue deformation perception and autonomous soft tissue manipulation"'
+          - 'Project/Area Number	25KJ1017'
       - company: The University of Tokyo
         position: WINGS Research Fellow
         location: Tokyo, Japan
